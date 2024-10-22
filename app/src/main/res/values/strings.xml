@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HiBuddy</string>
+    <string name="user_name">Enter your username</string>
+    <string name="user_pwd">Your Password</string>
+    <string name="btn_login">Enter</string>
+
+    <string name="fullname">Enter your fullname</string>
+    <string name="email">Your email@email.com</string>
+    <string name="number">Contact number example:+01367890</string>
+    <string name="dob">Your DOB eg:27/8/2000</string>
+    <string name="gender">Your gender</string>
+<!--    <string name="btn_enter">Button</string>-->
+</resources>
